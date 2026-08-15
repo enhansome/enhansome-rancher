@@ -2,7 +2,7 @@
 
 [<img src="https://rancher.com/img/farm-k8s.svg">](https://rancher.com/img/farm-k8s.svg)
 
-A curated list of awesome Rancher resources inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,619 | 🐛 100 | 📅 2026-06-30 list.
+A curated list of awesome Rancher resources inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,979 | 🐛 100 | 📅 2026-06-30 list.
 
 If you see a link that isn't a good fit, you can fix it by submitting a pull request to help improve the list. Likewise, if you'd like to add or fix something, click the [README.md](README.md) file to edit and submit a pull request.  Thank you!
 
@@ -38,7 +38,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Resources
 
-* [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-Project-Plan) ⭐ 25,853 | 🐛 3,342 | 🌐 Go | 📅 2026-08-14
+* [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-Project-Plan) ⭐ 25,854 | 🐛 3,343 | 🌐 Go | 📅 2026-08-15
 * [Installing Rancher Server](https://docs.rancher.com/rancher/installing-rancher/installing-server/)
 * [Upgrading Rancher Server](https://docs.rancher.com/rancher/latest/en/upgrading/)
 * [Environments](https://docs.rancher.com/rancher/v1.5/en/environments/)
@@ -53,7 +53,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Rancher 2.0
 
-* [Rancher 2.0 roadmap](https://github.com/rancher/rancher/wiki/Rancher-2.0) ⭐ 25,853 | 🐛 3,342 | 🌐 Go | 📅 2026-08-14
+* [Rancher 2.0 roadmap](https://github.com/rancher/rancher/wiki/Rancher-2.0) ⭐ 25,854 | 🐛 3,343 | 🌐 Go | 📅 2026-08-15
 * [Rancher 2.0 catalog](https://github.com/rancher/charts) ⭐ 430 | 🐛 12 | 🌐 Go Template | 📅 2026-08-14
 * [Rancher 2.0 Helm Chart](https://github.com/rancher/server-chart) ⚠️ Archived
 * [Rancher 2.0](http://rancher.com/rancher2-0/)
@@ -99,7 +99,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ### Community projects
 
-* [k3s](https://github.com/rancher/k3s) ⭐ 33,733 | 🐛 76 | 🌐 Go | 📅 2026-08-12 - Lightweight Kubernetes. 5 less than k8s.
+* [k3s](https://github.com/rancher/k3s) ⭐ 33,736 | 🐛 71 | 🌐 Go | 📅 2026-08-14 - Lightweight Kubernetes. 5 less than k8s.
 * [Terraform RKE](https://github.com/yamamoto-febc/terraform-provider-rke) ⭐ 345 | 🐛 51 | 🌐 Go | 📅 2026-07-20 - Terraform provider plugin for deploying kubernetes clusters with RKE
 * [Local Rancher Vagrant](https://github.com/rancher/vagrant/tree/rke) ⚠️ Archived - Vagrant file to stand up a Local Rancher install with 3 nodes
 * [Check Rancher 2](https://github.com/Napsty/check_rancher2) ⭐ 26 | 🐛 3 | 🌐 Shell | 📅 2025-06-13- Monitoring plugin to check Docker environments in Rancher 2.x
@@ -132,7 +132,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ### Tools 1.0
 
-* [Rancher](https://github.com/rancher/rancher) ⭐ 25,853 | 🐛 3,342 | 🌐 Go | 📅 2026-08-14
+* [Rancher](https://github.com/rancher/rancher) ⭐ 25,854 | 🐛 3,343 | 🌐 Go | 📅 2026-08-15
 * [Convoy](https://github.com/rancher/convoy) ⚠️ Archived - A Docker volume plugin, managing persistent container volumes
 * [Cattle](https://github.com/rancher/cattle) ⚠️ Archived - Cattle is the orchestration engine that powers Rancher
 * [Rancher CLI](https://github.com/rancher/cli) ⭐ 389 | 🐛 15 | 🌐 Go | 📅 2026-08-14 - The Rancher Command Line Interface (CLI)is a unified tool to manage your Rancher server
@@ -218,10 +218,10 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Contributing
 
-* [Cowpoke](https://github.com/rancher/rancher/wiki/Cowpoke-1:-Getting-Started-with-Rancher) ⭐ 25,853 | 🐛 3,342 | 🌐 Go | 📅 2026-08-14 - Get started developing
+* [Cowpoke](https://github.com/rancher/rancher/wiki/Cowpoke-1:-Getting-Started-with-Rancher) ⭐ 25,854 | 🐛 3,343 | 🌐 Go | 📅 2026-08-15 - Get started developing
 * [Rancher documentation repo](https://github.com/rancher/rancher.github.io) ⚠️ Archived
 * [Contributing](http://docs.rancher.com/rancher/contributing/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
