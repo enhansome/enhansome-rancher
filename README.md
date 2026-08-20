@@ -2,7 +2,7 @@
 
 [<img src="https://rancher.com/img/farm-k8s.svg">](https://rancher.com/img/farm-k8s.svg)
 
-A curated list of awesome Rancher resources inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,677 | 🐛 102 | 📅 2026-08-18 list.
+A curated list of awesome Rancher resources inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,070 | 🐛 105 | 📅 2026-08-18 list.
 
 If you see a link that isn't a good fit, you can fix it by submitting a pull request to help improve the list. Likewise, if you'd like to add or fix something, click the [README.md](README.md) file to edit and submit a pull request.  Thank you!
 
@@ -38,7 +38,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Resources
 
-* [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-Project-Plan) ⭐ 25,860 | 🐛 3,346 | 🌐 Go | 📅 2026-08-19
+* [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-Project-Plan) ⭐ 25,862 | 🐛 3,353 | 🌐 Go | 📅 2026-08-20
 * [Installing Rancher Server](https://docs.rancher.com/rancher/installing-rancher/installing-server/)
 * [Upgrading Rancher Server](https://docs.rancher.com/rancher/latest/en/upgrading/)
 * [Environments](https://docs.rancher.com/rancher/v1.5/en/environments/)
@@ -53,8 +53,8 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Rancher 2.0
 
-* [Rancher 2.0 roadmap](https://github.com/rancher/rancher/wiki/Rancher-2.0) ⭐ 25,860 | 🐛 3,346 | 🌐 Go | 📅 2026-08-19
-* [Rancher 2.0 catalog](https://github.com/rancher/charts) ⭐ 430 | 🐛 13 | 🌐 Go Template | 📅 2026-08-19
+* [Rancher 2.0 roadmap](https://github.com/rancher/rancher/wiki/Rancher-2.0) ⭐ 25,862 | 🐛 3,353 | 🌐 Go | 📅 2026-08-20
+* [Rancher 2.0 catalog](https://github.com/rancher/charts) ⭐ 430 | 🐛 18 | 🌐 Go Template | 📅 2026-08-20
 * [Rancher 2.0 Helm Chart](https://github.com/rancher/server-chart) ⚠️ Archived
 * [Rancher 2.0](http://rancher.com/rancher2-0/)
 * [Getting started guide](http://rancher.com/docs/rancher/v2.0/en/quick-start-guide/)
@@ -99,7 +99,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ### Community projects
 
-* [k3s](https://github.com/rancher/k3s) ⭐ 33,763 | 🐛 66 | 🌐 Go | 📅 2026-08-18 - Lightweight Kubernetes. 5 less than k8s.
+* [k3s](https://github.com/rancher/k3s) ⭐ 33,768 | 🐛 66 | 🌐 Go | 📅 2026-08-18 - Lightweight Kubernetes. 5 less than k8s.
 * [Terraform RKE](https://github.com/yamamoto-febc/terraform-provider-rke) ⭐ 345 | 🐛 51 | 🌐 Go | 📅 2026-07-20 - Terraform provider plugin for deploying kubernetes clusters with RKE
 * [Local Rancher Vagrant](https://github.com/rancher/vagrant/tree/rke) ⚠️ Archived - Vagrant file to stand up a Local Rancher install with 3 nodes
 * [Check Rancher 2](https://github.com/Napsty/check_rancher2) ⭐ 26 | 🐛 3 | 🌐 Shell | 📅 2025-06-13- Monitoring plugin to check Docker environments in Rancher 2.x
@@ -132,10 +132,10 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ### Tools 1.0
 
-* [Rancher](https://github.com/rancher/rancher) ⭐ 25,860 | 🐛 3,346 | 🌐 Go | 📅 2026-08-19
+* [Rancher](https://github.com/rancher/rancher) ⭐ 25,862 | 🐛 3,353 | 🌐 Go | 📅 2026-08-20
 * [Convoy](https://github.com/rancher/convoy) ⚠️ Archived - A Docker volume plugin, managing persistent container volumes
 * [Cattle](https://github.com/rancher/cattle) ⚠️ Archived - Cattle is the orchestration engine that powers Rancher
-* [Rancher CLI](https://github.com/rancher/cli) ⭐ 389 | 🐛 16 | 🌐 Go | 📅 2026-08-19 - The Rancher Command Line Interface (CLI)is a unified tool to manage your Rancher server
+* [Rancher CLI](https://github.com/rancher/cli) ⭐ 389 | 🐛 16 | 🌐 Go | 📅 2026-08-20 - The Rancher Command Line Interface (CLI)is a unified tool to manage your Rancher server
 * [Rancher community catalog](https://github.com/rancher/community-catalog) ⚠️ Archived - The catalog provides templates created and maintained by the community
 * [Rancher Compose](https://github.com/rancher/rancher-compose) ⚠️ Archived - Docker compose compatible client to deploy to Rancher
 * [Rancher catalog](https://github.com/rancher/rancher-catalog) ⚠️ Archived - The catalog provides templates created and maintained by Rancher
@@ -218,10 +218,10 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Contributing
 
-* [Cowpoke](https://github.com/rancher/rancher/wiki/Cowpoke-1:-Getting-Started-with-Rancher) ⭐ 25,860 | 🐛 3,346 | 🌐 Go | 📅 2026-08-19 - Get started developing
+* [Cowpoke](https://github.com/rancher/rancher/wiki/Cowpoke-1:-Getting-Started-with-Rancher) ⭐ 25,862 | 🐛 3,353 | 🌐 Go | 📅 2026-08-20 - Get started developing
 * [Rancher documentation repo](https://github.com/rancher/rancher.github.io) ⚠️ Archived
 * [Contributing](http://docs.rancher.com/rancher/contributing/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
