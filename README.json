@@ -12,10 +12,10 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-24T13:14:26Z",
+            "last_commit": "2026-08-24T13:48:34Z",
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25871
+            "stars": 25872
           }
         }
       ],
@@ -33,10 +33,10 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-24T13:14:26Z",
+            "last_commit": "2026-08-24T13:48:34Z",
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25871
+            "stars": 25872
           }
         },
         {
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 127697322,
             "language": "Go Template",
-            "last_commit": "2026-08-24T13:37:31Z",
+            "last_commit": "2026-08-24T13:51:29Z",
             "owner": "rancher",
             "repo": "charts",
             "stars": 430
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-22T18:13:00Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33801
+                "stars": 33803
               }
             },
             {
@@ -240,6 +240,28 @@
           "description": null,
           "node_type": "group",
           "title": "Community projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Setup Metrics Server on an existing Kubernetes Cluster Hosted in Rancher",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136265358,
+                "language": null,
+                "last_commit": "2018-06-15T16:46:39Z",
+                "owner": "JasonvanBrackel",
+                "repo": "metrics-server-on-rancher-2.0.2",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "How to"
         }
       ],
       "title": "Rancher 2.0"
@@ -258,10 +280,10 @@
                 "archived": false,
                 "id": 26337322,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:14:26Z",
+                "last_commit": "2026-08-24T13:48:34Z",
                 "owner": "rancher",
                 "repo": "rancher",
-                "stars": 25871
+                "stars": 25872
               }
             },
             {
@@ -823,10 +845,10 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-24T13:14:26Z",
+            "last_commit": "2026-08-24T13:48:34Z",
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25871
+            "stars": 25872
           }
         },
         {
@@ -849,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:38:46.228Z",
+    "last_updated": "2026-08-24T14:29:38.810Z",
     "original_repository": "jmreicha/awesome-rancher",
     "original_repository_id": 84583255,
     "original_repository_sha": "b843a27a364a7a60a6eb1d73179ee8317b3f6c79",
