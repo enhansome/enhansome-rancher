@@ -12,7 +12,7 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-26T13:32:45Z",
+            "last_commit": "2026-08-27T08:40:36Z",
             "owner": "rancher",
             "repo": "rancher",
             "stars": 25873
@@ -33,7 +33,7 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-26T13:32:45Z",
+            "last_commit": "2026-08-27T08:40:36Z",
             "owner": "rancher",
             "repo": "rancher",
             "stars": 25873
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 127697322,
             "language": "Go Template",
-            "last_commit": "2026-08-26T13:23:19Z",
+            "last_commit": "2026-08-27T11:56:46Z",
             "owner": "rancher",
             "repo": "charts",
             "stars": 430
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-25T18:18:07Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33824
+                "stars": 33831
               }
             },
             {
@@ -280,7 +280,7 @@
                 "archived": false,
                 "id": 26337322,
                 "language": "Go",
-                "last_commit": "2026-08-26T13:32:45Z",
+                "last_commit": "2026-08-27T08:40:36Z",
                 "owner": "rancher",
                 "repo": "rancher",
                 "stars": 25873
@@ -325,7 +325,7 @@
                 "archived": false,
                 "id": 59953453,
                 "language": "Go",
-                "last_commit": "2026-08-26T09:58:43Z",
+                "last_commit": "2026-08-27T06:47:35Z",
                 "owner": "rancher",
                 "repo": "cli",
                 "stars": 390
@@ -845,7 +845,7 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-26T13:32:45Z",
+            "last_commit": "2026-08-27T08:40:36Z",
             "owner": "rancher",
             "repo": "rancher",
             "stars": 25873
@@ -871,9 +871,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:41:47.838Z",
-    "original_repository": "jmreicha/awesome-rancher",
-    "original_repository_id": 84583255,
+    "last_updated": "2026-08-27T11:59:00.783Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 84583255,
+      "language": null,
+      "last_commit": "2019-05-26T17:11:59Z",
+      "owner": "jmreicha",
+      "repo": "awesome-rancher",
+      "stars": 284
+    },
     "original_repository_sha": "b843a27a364a7a60a6eb1d73179ee8317b3f6c79",
     "enhanced_repository": "enhansome/enhansome-rancher",
     "enhanced_repository_description": null,
