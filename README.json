@@ -12,11 +12,12 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-27T22:16:25Z",
+            "last_commit": "2026-08-28T22:12:21Z",
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25876
-          }
+            "stars": 25877
+          },
+          "first_seen": "2026-08-28T22:43:39.231Z"
         }
       ],
       "title": "Resources"
@@ -33,11 +34,12 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-27T22:16:25Z",
+            "last_commit": "2026-08-28T22:12:21Z",
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25876
-          }
+            "stars": 25877
+          },
+          "first_seen": "2026-08-28T22:43:39.231Z"
         },
         {
           "node_type": "item",
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 127697322,
             "language": "Go Template",
-            "last_commit": "2026-08-27T22:24:03Z",
+            "last_commit": "2026-08-28T17:40:49Z",
             "owner": "rancher",
             "repo": "charts",
             "stars": 430
-          }
+          },
+          "first_seen": "2026-08-28T22:43:39.231Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "rancher",
             "repo": "server-chart",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T22:43:39.231Z"
         },
         {
           "children": [
@@ -80,11 +84,12 @@
                 "archived": false,
                 "id": 135516270,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:22:28Z",
+                "last_commit": "2026-08-28T21:31:09Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33836
-              }
+                "stars": 33842
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "rancher",
                 "repo": "terraform-provider-rke",
                 "stars": 345
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "rancher-archives",
                 "repo": "vagrant",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "Napsty",
                 "repo": "check_rancher2",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "rancherpi",
                 "repo": "rancher-arm64",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "flaccid",
                 "repo": "rke-vagrant",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "jgreat",
                 "repo": "helm-rancher-server",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "myENA",
                 "repo": "logspout-rancher-ledger",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "myENA",
                 "repo": "rancher-herder",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "hashicorp",
                 "repo": "terraform-provider-rancher2",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "anthonyhumphreys",
                 "repo": "tf-rancher-ha-gcloud",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             }
           ],
           "description": null,
@@ -256,7 +271,8 @@
                 "owner": "JasonvanBrackel",
                 "repo": "metrics-server-on-rancher-2.0.2",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             }
           ],
           "description": null,
@@ -280,11 +296,12 @@
                 "archived": false,
                 "id": 26337322,
                 "language": "Go",
-                "last_commit": "2026-08-27T22:16:25Z",
+                "last_commit": "2026-08-28T22:12:21Z",
                 "owner": "rancher",
                 "repo": "rancher",
-                "stars": 25876
-              }
+                "stars": 25877
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -299,7 +316,8 @@
                 "owner": "rancher",
                 "repo": "convoy",
                 "stars": 1304
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -314,7 +332,8 @@
                 "owner": "rancher",
                 "repo": "cattle",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -325,11 +344,12 @@
                 "archived": false,
                 "id": 59953453,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:17:16Z",
+                "last_commit": "2026-08-28T10:39:09Z",
                 "owner": "rancher",
                 "repo": "cli",
                 "stars": 390
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -344,7 +364,8 @@
                 "owner": "rancher",
                 "repo": "community-catalog",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -359,7 +380,8 @@
                 "owner": "rancher",
                 "repo": "rancher-compose",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -374,7 +396,8 @@
                 "owner": "rancher",
                 "repo": "rancher-catalog",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             }
           ],
           "description": null,
@@ -396,7 +419,8 @@
                 "owner": "cdrx",
                 "repo": "rancher-gitlab-deploy",
                 "stars": 428
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -411,7 +435,8 @@
                 "owner": "janeczku",
                 "repo": "rancher-letsencrypt",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -426,7 +451,8 @@
                 "owner": "SocialEngine",
                 "repo": "rancher-cron",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -441,7 +467,8 @@
                 "owner": "kiwicom",
                 "repo": "crane",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -456,7 +483,8 @@
                 "owner": "etlweather",
                 "repo": "gaucho",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -471,7 +499,8 @@
                 "owner": "tozny",
                 "repo": "rancher-lets-encrypt",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -486,7 +515,8 @@
                 "owner": "ndelitski",
                 "repo": "rancher-alarms",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -501,7 +531,8 @@
                 "owner": "komljen",
                 "repo": "rancher-salt",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -516,7 +547,8 @@
                 "owner": "jenkinsci",
                 "repo": "rancher-plugin",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -531,7 +563,8 @@
                 "owner": "kenfdev",
                 "repo": "faas-rancher",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -546,7 +579,8 @@
                 "owner": "ampedandwired",
                 "repo": "rancher-reaper",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -561,7 +595,8 @@
                 "owner": "nextrevision",
                 "repo": "rancher-vagrant",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -576,7 +611,8 @@
                 "owner": "bscott",
                 "repo": "chaosrancher",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -591,7 +627,8 @@
                 "owner": "go",
                 "repo": "rancher-zsh-completion",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -606,7 +643,8 @@
                 "owner": "bscott",
                 "repo": "rancher-wrangler",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -621,7 +659,8 @@
                 "owner": "LeanKit-Labs",
                 "repo": "cowpoke",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -636,7 +675,8 @@
                 "owner": "cloudnautique",
                 "repo": "cowcheck",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -651,7 +691,8 @@
                 "owner": "ibrokethecloud",
                 "repo": "rancher-events",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -666,7 +707,8 @@
                 "owner": "cloudnautique",
                 "repo": "giddyup",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -681,7 +723,8 @@
                 "owner": "aboutdotme",
                 "repo": "rancher-client",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -696,7 +739,8 @@
                 "owner": "SkeltonThatcher",
                 "repo": "vagrant-rancher",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -711,7 +755,8 @@
                 "owner": "ecliptik",
                 "repo": "rancher-prometheus",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -726,7 +771,8 @@
                 "owner": "crystal-construct",
                 "repo": "roundup",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "node_type": "item",
@@ -741,7 +787,8 @@
                 "owner": "srflaxu40",
                 "repo": "rancher-firedrill",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:43:39.231Z"
             },
             {
               "children": [
@@ -758,7 +805,8 @@
                     "owner": "nextrevision",
                     "repo": "terraform-rancher-ha-example",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:43:39.231Z"
                 },
                 {
                   "node_type": "item",
@@ -773,7 +821,8 @@
                     "owner": "cloudnautique",
                     "repo": "terraform-rancher",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:43:39.231Z"
                 },
                 {
                   "node_type": "item",
@@ -788,7 +837,8 @@
                     "owner": "lunagt",
                     "repo": "rancher-terraform-digitalocean",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:43:39.231Z"
                 },
                 {
                   "node_type": "item",
@@ -803,7 +853,8 @@
                     "owner": "SkeltonThatcher",
                     "repo": "aws-terraform-rancher-single-node-ha",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:43:39.231Z"
                 },
                 {
                   "node_type": "item",
@@ -818,7 +869,8 @@
                     "owner": "chrisurwin",
                     "repo": "terraform-aws-rancher-ha",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:43:39.231Z"
                 }
               ],
               "description": null,
@@ -845,11 +897,12 @@
             "archived": false,
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-27T22:16:25Z",
+            "last_commit": "2026-08-28T22:12:21Z",
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25876
-          }
+            "stars": 25877
+          },
+          "first_seen": "2026-08-28T22:43:39.231Z"
         },
         {
           "node_type": "item",
@@ -864,14 +917,15 @@
             "owner": "rancher-archives",
             "repo": "rancher.github.io",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T22:43:39.231Z"
         }
       ],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:37:43.721Z",
+    "last_updated": "2026-08-28T22:43:39.231Z",
     "original_repository_info": {
       "archived": false,
       "id": 84583255,
