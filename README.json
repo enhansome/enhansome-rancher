@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete container management platform",
+            "homepage": "http://rancher.com",
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-28T22:12:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:17Z",
+            "open_issues": 3341,
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25877
+            "stars": 25878,
+            "topics": [
+              "cattle",
+              "containers",
+              "docker",
+              "kubernetes",
+              "orchestration",
+              "rancher"
+            ]
           },
           "first_seen": "2026-08-28T22:43:39.231Z"
         }
@@ -32,12 +44,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete container management platform",
+            "homepage": "http://rancher.com",
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-28T22:12:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:17Z",
+            "open_issues": 3341,
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25877
+            "stars": 25878,
+            "topics": [
+              "cattle",
+              "containers",
+              "docker",
+              "kubernetes",
+              "orchestration",
+              "rancher"
+            ]
           },
           "first_seen": "2026-08-28T22:43:39.231Z"
         },
@@ -48,12 +72,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github based Helm Chart Index Repository providing charts crafted for Rancher Manager",
+            "homepage": null,
             "id": 127697322,
             "language": "Go Template",
+            "license": null,
             "last_commit": "2026-08-28T17:40:49Z",
+            "open_issues": 18,
             "owner": "rancher",
             "repo": "charts",
-            "stars": 430
+            "stars": 430,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:43:39.231Z"
         },
@@ -64,12 +93,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Deprecated] Helm chart for Rancher server",
+            "homepage": null,
             "id": 135916056,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-03-14T17:37:43Z",
+            "open_issues": 0,
             "owner": "rancher",
             "repo": "server-chart",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:43:39.231Z"
         },
@@ -82,12 +116,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight Kubernetes",
+                "homepage": "https://k3s.io",
                 "id": 135516270,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:31:09Z",
+                "open_issues": 73,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33842
+                "stars": 33842,
+                "topics": [
+                  "k8s",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -98,12 +140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)",
+                "homepage": null,
                 "id": 128194523,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-20T12:06:54Z",
+                "open_issues": 51,
                 "owner": "rancher",
                 "repo": "terraform-provider-rke",
-                "stars": 345
+                "stars": 345,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -114,12 +161,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Vagrant file to stand up a Local Rancher install with 3 nodes",
+                "homepage": null,
                 "id": 84424343,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2019-03-11T12:35:50Z",
+                "open_issues": 11,
                 "owner": "rancher-archives",
                 "repo": "vagrant",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -130,12 +182,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monitoring plugin to check Docker / Kubernetes clusters managed by Rancher 2.x",
+                "homepage": null,
                 "id": 139158281,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2025-06-13T14:16:39Z",
+                "open_issues": 3,
                 "owner": "Napsty",
                 "repo": "check_rancher2",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "kubernetes",
+                  "monitoring",
+                  "monitoring-plugin",
+                  "nagios-plugin",
+                  "rancher",
+                  "rancher-server",
+                  "rancher2"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -146,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo to build rancher on arm64 platform(like raspberry pi 3b+)",
+                "homepage": null,
                 "id": 151953186,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-08T15:56:50Z",
+                "open_issues": 0,
                 "owner": "rancherpi",
                 "repo": "rancher-arm64",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -162,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vagrant up RKE (Rancher Kubernetes Engine)",
+                "homepage": null,
                 "id": 112596476,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-08T02:41:57Z",
+                "open_issues": 0,
                 "owner": "flaccid",
                 "repo": "rke-vagrant",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -178,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Helm catalog for Rancher 2.0",
+                "homepage": null,
                 "id": 133301471,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2018-06-19T03:34:18Z",
+                "open_issues": 5,
                 "owner": "jgreat",
                 "repo": "helm-rancher-server",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -194,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A logspout plugin for Rancher v2.0",
+                "homepage": null,
                 "id": 111434014,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-30T17:32:42Z",
+                "open_issues": 0,
                 "owner": "myENA",
                 "repo": "logspout-rancher-ledger",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -210,12 +297,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Rancher service registration for consul",
+                "homepage": null,
                 "id": 106870146,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2017-12-11T21:45:09Z",
+                "open_issues": 0,
                 "owner": "myENA",
                 "repo": "rancher-herder",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -226,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository has moved to https://github.com/rancher/terraform-provider-rancher2",
+                "homepage": "https://github.com/rancher/terraform-provider-rancher2",
                 "id": 281472653,
                 "language": null,
+                "license": "MPL-2.0",
                 "last_commit": "2020-07-20T15:05:45Z",
+                "open_issues": 0,
                 "owner": "hashicorp",
                 "repo": "terraform-provider-rancher2",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -242,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform for setting up a Highly Available Rancher installation on Google Cloud",
+                "homepage": null,
                 "id": 169793387,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-09T15:36:55Z",
+                "open_issues": 2,
                 "owner": "anthonyhumphreys",
                 "repo": "tf-rancher-ha-gcloud",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             }
@@ -265,12 +367,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Method to Setup Metrics-Server on Kubernetes via Rancher-Deployed Cluster",
+                "homepage": null,
                 "id": 136265358,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2018-06-15T16:46:39Z",
+                "open_issues": 0,
                 "owner": "JasonvanBrackel",
                 "repo": "metrics-server-on-rancher-2.0.2",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "heapster",
+                  "kubernetes-cluster",
+                  "metrics-server",
+                  "rancher"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             }
@@ -294,12 +406,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete container management platform",
+                "homepage": "http://rancher.com",
                 "id": 26337322,
                 "language": "Go",
-                "last_commit": "2026-08-28T22:12:21Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:44:17Z",
+                "open_issues": 3341,
                 "owner": "rancher",
                 "repo": "rancher",
-                "stars": 25877
+                "stars": 25878,
+                "topics": [
+                  "cattle",
+                  "containers",
+                  "docker",
+                  "kubernetes",
+                  "orchestration",
+                  "rancher"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -310,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Docker volume plugin, managing persistent container volumes.",
+                "homepage": null,
                 "id": 29041226,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-31T12:03:11Z",
+                "open_issues": 75,
                 "owner": "rancher",
                 "repo": "convoy",
-                "stars": 1304
+                "stars": 1304,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -326,12 +455,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Infrastructure orchestration engine for Rancher 1.x",
+                "homepage": null,
                 "id": 18023059,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-03T18:07:31Z",
+                "open_issues": 0,
                 "owner": "rancher",
                 "repo": "cattle",
-                "stars": 573
+                "stars": 573,
+                "topics": [
+                  "cat-herding",
+                  "cattle",
+                  "docker",
+                  "middle-managers",
+                  "orchestration"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -342,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rancher CLI",
+                "homepage": null,
                 "id": 59953453,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:39:09Z",
+                "open_issues": 17,
                 "owner": "rancher",
                 "repo": "cli",
-                "stars": 390
+                "stars": 390,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -358,12 +503,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Catalog entries contributed by the community",
+                "homepage": null,
                 "id": 50607866,
                 "language": "Smarty",
+                "license": null,
                 "last_commit": "2020-04-12T13:44:00Z",
+                "open_issues": 76,
                 "owner": "rancher",
                 "repo": "community-catalog",
-                "stars": 379
+                "stars": 379,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -374,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Docker compose compatible client to deploy to Rancher",
+                "homepage": null,
                 "id": 30954262,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-17T19:36:46Z",
+                "open_issues": 0,
                 "owner": "rancher",
                 "repo": "rancher-compose",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -390,12 +545,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 44330638,
                 "language": "Smarty",
+                "license": null,
                 "last_commit": "2020-08-17T20:15:29Z",
+                "open_issues": 1,
                 "owner": "rancher",
                 "repo": "rancher-catalog",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             }
@@ -413,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Painless deployment of projects built with GitLab CI onto your Rancher infrastructure",
+                "homepage": null,
                 "id": 68222503,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-07T11:04:23Z",
+                "open_issues": 9,
                 "owner": "cdrx",
                 "repo": "rancher-gitlab-deploy",
-                "stars": 428
+                "stars": 428,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -429,12 +594,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":cow: Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA",
+                "homepage": null,
                 "id": 50883892,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-14T22:06:26Z",
+                "open_issues": 50,
                 "owner": "janeczku",
                 "repo": "rancher-letsencrypt",
-                "stars": 324
+                "stars": 324,
+                "topics": [
+                  "certificate",
+                  "dns",
+                  "letsencrypt",
+                  "rancher",
+                  "ssl-certificates"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -445,12 +621,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A service that can start containers on a defined schedule.",
+                "homepage": null,
                 "id": 58005124,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2018-03-22T22:54:29Z",
+                "open_issues": 9,
                 "owner": "SocialEngine",
                 "repo": "rancher-cron",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "cron-expression",
+                  "golang",
+                  "rancher"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -461,12 +646,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⬆ A GitLab CI ready image to upgrade services in Rancher",
+                "homepage": "https://code.kiwi.com/announcing-crane-e8ce911b187b",
                 "id": 86802251,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-04T14:49:24Z",
+                "open_issues": 27,
                 "owner": "kiwicom",
                 "repo": "crane",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "docker",
+                  "docker-image",
+                  "gitlab",
+                  "gitlab-ci",
+                  "rancher",
+                  "rancher-api",
+                  "rancher-upgrades"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -477,12 +675,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Python CLI tool for Rancher's API",
+                "homepage": null,
                 "id": 53816910,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-02-02T19:48:08Z",
+                "open_issues": 0,
                 "owner": "etlweather",
                 "repo": "gaucho",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "ci-cd",
+                  "deployment",
+                  "rancher",
+                  "rancher-api"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -493,12 +701,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically create and manage certificates in Rancher using Let's Encrypt webroot verification via a minimal service",
+                "homepage": null,
                 "id": 66884277,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-22T22:27:38Z",
+                "open_issues": 3,
                 "owner": "tozny",
                 "repo": "rancher-lets-encrypt",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "cert",
+                  "letsencrypt",
+                  "python",
+                  "rancher",
+                  "rancher-api",
+                  "rancher-service",
+                  "ssl-certificates",
+                  "tls-certificate",
+                  "webroot"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -509,12 +732,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Will kick your ass if found unhealthy service in Rancher environment",
+                "homepage": null,
                 "id": 45877573,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-08-15T17:40:17Z",
+                "open_issues": 22,
                 "owner": "ndelitski",
                 "repo": "rancher-alarms",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "rancher",
+                  "rancher-alarms"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -525,12 +756,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Salt states for Rancher container platform deployment",
+                "homepage": null,
                 "id": 65731750,
                 "language": "SaltStack",
+                "license": "Apache-2.0",
                 "last_commit": "2017-03-23T12:34:21Z",
+                "open_issues": 1,
                 "owner": "komljen",
                 "repo": "rancher-salt",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "docker",
+                  "rancher",
+                  "rancher-deployment",
+                  "rancher-salt",
+                  "salt-states",
+                  "saltstack"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -541,12 +784,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rancher jenkins plugin deploy or upgrade service",
+                "homepage": "https://plugins.jenkins.io/rancher/",
                 "id": 96799351,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2020-03-31T06:41:49Z",
+                "open_issues": 16,
                 "owner": "jenkinsci",
                 "repo": "rancher-plugin",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "deployment",
+                  "docker",
+                  "provision",
+                  "rancher",
+                  "upgrade"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -557,12 +811,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Enable Rancher as a backend for Functions as a Service (OpenFaaS) https://github.com/alexellis/faas",
+                "homepage": null,
                 "id": 102179359,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-08-05T12:32:08Z",
+                "open_issues": 1,
                 "owner": "kenfdev",
                 "repo": "faas-rancher",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "docker",
+                  "faas",
+                  "functions",
+                  "golang",
+                  "rancher",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -573,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Service to automatically delete hosts from Rancher if they have been terminated in AWS",
+                "homepage": null,
                 "id": 69220026,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-07-26T01:40:11Z",
+                "open_issues": 2,
                 "owner": "ampedandwired",
                 "repo": "rancher-reaper",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -589,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extensible and automated local Rancher environments using Vagrant",
+                "homepage": null,
                 "id": 59621809,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2016-05-28T13:43:31Z",
+                "open_issues": 1,
                 "owner": "nextrevision",
                 "repo": "rancher-vagrant",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -605,12 +881,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "chaosrancher periodically kills random services in your Rancher Stack/Cluster.",
+                "homepage": null,
                 "id": 85857801,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2017-03-24T08:35:18Z",
+                "open_issues": 0,
                 "owner": "bscott",
                 "repo": "chaosrancher",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "chaos-monkey",
+                  "docker",
+                  "go",
+                  "rancher"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -621,12 +907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zsh completion for Rancher CLI",
+                "homepage": null,
                 "id": 70805882,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-04-12T01:51:46Z",
+                "open_issues": 5,
                 "owner": "go",
                 "repo": "rancher-zsh-completion",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -637,12 +928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wrangler is a Central Web Interface for Rancher Servers ",
+                "homepage": null,
                 "id": 78697468,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2017-01-24T04:02:34Z",
+                "open_issues": 10,
                 "owner": "bscott",
                 "repo": "rancher-wrangler",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -653,12 +949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A service to handle configurable Rancher service upgrade patterns",
+                "homepage": null,
                 "id": 49695496,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-12-06T21:01:33Z",
+                "open_issues": 6,
                 "owner": "LeanKit-Labs",
                 "repo": "cowpoke",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -669,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A microservice for checking the health of a Rancher node",
+                "homepage": null,
                 "id": 87505212,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2017-12-21T21:37:57Z",
+                "open_issues": 4,
                 "owner": "cloudnautique",
                 "repo": "cowcheck",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -685,12 +991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 90919269,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2017-07-12T14:09:47Z",
+                "open_issues": 1,
                 "owner": "ibrokethecloud",
                 "repo": "rancher-events",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -701,12 +1012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 85765898,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2017-08-23T23:20:39Z",
+                "open_issues": 0,
                 "owner": "cloudnautique",
                 "repo": "giddyup",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -717,12 +1033,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dockerize rancher client",
+                "homepage": null,
                 "id": 56553786,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2018-09-26T15:31:05Z",
+                "open_issues": 0,
                 "owner": "aboutdotme",
                 "repo": "rancher-client",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "docker",
+                  "docker-compose",
+                  "rancher",
+                  "rancher-api",
+                  "rancher-cli"
+                ]
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -733,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vagrant files to create a Rancher server and host environment for local development",
+                "homepage": null,
                 "id": 99038361,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-09-05T09:47:10Z",
+                "open_issues": 0,
                 "owner": "SkeltonThatcher",
                 "repo": "vagrant-rancher",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -749,12 +1081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Prometheus Stack Config for Rancher",
+                "homepage": null,
                 "id": 88944834,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-06-02T22:24:11Z",
+                "open_issues": 0,
                 "owner": "ecliptik",
                 "repo": "rancher-prometheus",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -765,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Query rancher-metadata by label, and return the first, or all of the values as a single value, csv, or a list.",
+                "homepage": null,
                 "id": 95496742,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2017-06-28T21:57:08Z",
+                "open_issues": 0,
                 "owner": "crystal-construct",
                 "repo": "roundup",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -781,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alarm on stopped containers.",
+                "homepage": null,
                 "id": 80247654,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-03-26T19:26:25Z",
+                "open_issues": 0,
                 "owner": "srflaxu40",
                 "repo": "rancher-firedrill",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
             },
@@ -799,12 +1146,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Terraform files for deploying a Rancher HA cluster in AWS",
+                    "homepage": null,
                     "id": 58054384,
                     "language": "HCL",
+                    "license": null,
                     "last_commit": "2017-08-10T13:40:32Z",
+                    "open_issues": 0,
                     "owner": "nextrevision",
                     "repo": "terraform-rancher-ha-example",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": [
+                      "docker",
+                      "rancher",
+                      "terraform"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:43:39.231Z"
                 },
@@ -815,12 +1171,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 71252226,
                     "language": "HCL",
+                    "license": null,
                     "last_commit": "2017-04-14T16:54:59Z",
+                    "open_issues": 0,
                     "owner": "cloudnautique",
                     "repo": "terraform-rancher",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:43:39.231Z"
                 },
@@ -831,12 +1192,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Terraform module for a rancher server on digitalocean.",
+                    "homepage": null,
                     "id": 78068947,
                     "language": "HCL",
+                    "license": null,
                     "last_commit": "2017-03-13T04:45:04Z",
+                    "open_issues": 0,
                     "owner": "lunagt",
                     "repo": "rancher-terraform-digitalocean",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "cloud-config",
+                      "cloud-init",
+                      "luna",
+                      "rancher",
+                      "terraform"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:43:39.231Z"
                 },
@@ -847,12 +1219,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Terraform scripts to deploy Rancher server single node HA and multi-AZ Rancher hosts in AWS",
+                    "homepage": null,
                     "id": 84858188,
                     "language": "HCL",
+                    "license": null,
                     "last_commit": "2017-04-10T19:36:08Z",
+                    "open_issues": 1,
                     "owner": "SkeltonThatcher",
                     "repo": "aws-terraform-rancher-single-node-ha",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:43:39.231Z"
                 },
@@ -863,12 +1240,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Terraform module for standing up an AWS Rancher HA instance",
+                    "homepage": null,
                     "id": 62323947,
                     "language": "HCL",
+                    "license": null,
                     "last_commit": "2016-08-19T03:08:09Z",
+                    "open_issues": 0,
                     "owner": "chrisurwin",
                     "repo": "terraform-aws-rancher-ha",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:43:39.231Z"
                 }
@@ -895,12 +1277,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete container management platform",
+            "homepage": "http://rancher.com",
             "id": 26337322,
             "language": "Go",
-            "last_commit": "2026-08-28T22:12:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:17Z",
+            "open_issues": 3341,
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25877
+            "stars": 25878,
+            "topics": [
+              "cattle",
+              "containers",
+              "docker",
+              "kubernetes",
+              "orchestration",
+              "rancher"
+            ]
           },
           "first_seen": "2026-08-28T22:43:39.231Z"
         },
@@ -911,12 +1305,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "http://rancher-archives.github.io/rancher.github.io/",
             "id": 39178161,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-05-16T17:37:15Z",
+            "open_issues": 4,
             "owner": "rancher-archives",
             "repo": "rancher.github.io",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:43:39.231Z"
         }
@@ -925,15 +1324,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:43:39.231Z",
+    "last_updated": "2026-08-29T04:51:21.543Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of Rancher resources",
+      "homepage": null,
       "id": 84583255,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2019-05-26T17:11:59Z",
+      "open_issues": 2,
       "owner": "jmreicha",
       "repo": "awesome-rancher",
-      "stars": 284
+      "stars": 284,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "container-management",
+        "containers",
+        "kubernetes",
+        "rancher"
+      ]
     },
     "original_repository_sha": "b843a27a364a7a60a6eb1d73179ee8317b3f6c79",
     "enhanced_repository": "enhansome/enhansome-rancher",
