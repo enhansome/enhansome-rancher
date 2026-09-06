@@ -15,11 +15,11 @@
             "id": 26337322,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T12:30:10Z",
-            "open_issues": 3349,
+            "last_commit": "2026-09-06T01:00:11Z",
+            "open_issues": 3347,
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25890,
+            "stars": 25888,
             "topics": [
               "cattle",
               "containers",
@@ -49,11 +49,11 @@
             "id": 26337322,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T12:30:10Z",
-            "open_issues": 3349,
+            "last_commit": "2026-09-06T01:00:11Z",
+            "open_issues": 3347,
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25890,
+            "stars": 25888,
             "topics": [
               "cattle",
               "containers",
@@ -122,10 +122,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T18:24:04Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33885,
+                "stars": 33893,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -149,7 +149,7 @@
                 "open_issues": 51,
                 "owner": "rancher-archives",
                 "repo": "terraform-provider-rke",
-                "stars": 345,
+                "stars": 344,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
@@ -411,11 +411,11 @@
                 "id": 26337322,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T12:30:10Z",
-                "open_issues": 3349,
+                "last_commit": "2026-09-06T01:00:11Z",
+                "open_issues": 3347,
                 "owner": "rancher",
                 "repo": "rancher",
-                "stars": 25890,
+                "stars": 25888,
                 "topics": [
                   "cattle",
                   "containers",
@@ -491,7 +491,7 @@
                 "open_issues": 14,
                 "owner": "rancher",
                 "repo": "cli",
-                "stars": 391,
+                "stars": 390,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:39.231Z"
@@ -1282,11 +1282,11 @@
             "id": 26337322,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T12:30:10Z",
-            "open_issues": 3349,
+            "last_commit": "2026-09-06T01:00:11Z",
+            "open_issues": 3347,
             "owner": "rancher",
             "repo": "rancher",
-            "stars": 25890,
+            "stars": 25888,
             "topics": [
               "cattle",
               "containers",
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:36:28.052Z",
+    "last_updated": "2026-09-06T15:49:22.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Rancher resources",
