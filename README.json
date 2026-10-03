@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Project Plan",
-          "description": null,
+          "description": "rancher/rancher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,8 +15,8 @@
             "id": 26337322,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:53:11Z",
-            "open_issues": 3375,
+            "last_commit": "2026-10-02T21:16:19Z",
+            "open_issues": 3379,
             "owner": "rancher",
             "repo": "rancher",
             "stars": 25949,
@@ -40,7 +40,7 @@
         {
           "node_type": "item",
           "title": "Rancher 2.0 roadmap",
-          "description": null,
+          "description": "rancher/rancher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -49,8 +49,8 @@
             "id": 26337322,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:53:11Z",
-            "open_issues": 3375,
+            "last_commit": "2026-10-02T21:16:19Z",
+            "open_issues": 3379,
             "owner": "rancher",
             "repo": "rancher",
             "stars": 25949,
@@ -68,7 +68,7 @@
         {
           "node_type": "item",
           "title": "Rancher 2.0 catalog",
-          "description": null,
+          "description": "rancher/charts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
             "open_issues": 14,
             "owner": "rancher",
             "repo": "charts",
-            "stars": 431,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-28T22:43:39.231Z"
@@ -89,7 +89,7 @@
         {
           "node_type": "item",
           "title": "Rancher 2.0 Helm Chart",
-          "description": null,
+          "description": "rancher/server-chart",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -121,11 +121,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:51:30Z",
-                "open_issues": 71,
+                "last_commit": "2026-10-02T18:28:08Z",
+                "open_issues": 75,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34109,
+                "stars": 34112,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -363,7 +363,7 @@
             {
               "node_type": "item",
               "title": "Setup Metrics Server on an existing Kubernetes Cluster Hosted in Rancher",
-              "description": null,
+              "description": "JasonvanBrackel/metrics-server-on-rancher-2.0.2",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -402,7 +402,7 @@
             {
               "node_type": "item",
               "title": "Rancher",
-              "description": null,
+              "description": "rancher/rancher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -411,8 +411,8 @@
                 "id": 26337322,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:53:11Z",
-                "open_issues": 3375,
+                "last_commit": "2026-10-02T21:16:19Z",
+                "open_issues": 3379,
                 "owner": "rancher",
                 "repo": "rancher",
                 "stars": 25949,
@@ -1282,8 +1282,8 @@
             "id": 26337322,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:53:11Z",
-            "open_issues": 3375,
+            "last_commit": "2026-10-02T21:16:19Z",
+            "open_issues": 3379,
             "owner": "rancher",
             "repo": "rancher",
             "stars": 25949,
@@ -1301,7 +1301,7 @@
         {
           "node_type": "item",
           "title": "Rancher documentation repo",
-          "description": null,
+          "description": "rancher-archives/rancher.github.io",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:03:40.867Z",
+    "last_updated": "2026-10-03T05:04:05.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Rancher resources",
